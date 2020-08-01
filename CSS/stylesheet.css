@@ -1,0 +1,119 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.box1{
+    height: 50rem;
+    background-color: #fff;
+}
+.box2{
+    height: 50rem;
+    background-color: rgb(4, 4, 49);
+}
+.text{
+    color:#fff;
+    text-align: center;
+    padding-top: 3rem;
+}
+.line{
+    margin: auto;
+    margin-top: 20px;
+    width: 50px;
+    border: 1.5px solid #707070;
+}
+.input{
+    color: #fff;
+    background-color: rgb(4, 4, 49);
+    border-top: 0 rgb(4, 4, 49);
+    border-left: 0 rgb(4, 4, 49);
+    border-right: 0 rgb(4, 4, 49);
+}
+.form{
+    text-align: center;
+}
+.Read{
+    height: 80px;
+    width: 160px;
+    background-color: rgb(150, 218, 245);
+    border-top-left-radius: 80rem;
+    border-top-right-radius: 80rem;
+    position: relative;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    margin-top: 6.5rem;
+    padding: 1rem;
+}
+.more{
+    font-size: 1rem;
+    color: #fff;
+}
+.btn{
+    background-color: #707070;
+    color: #fff;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.btn4{
+    background-color: #707070;
+    color: #fff;
+    border-radius: 40px 0px 40px 40px;
+    padding: 1.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.btn1{
+    background-color: rgb(93, 93, 207);
+    color: #fff;
+    border: 2px solid #707070;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.btn2{
+    background-color: #707070;
+    color: #fff;
+    border: 2px solid #707070;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.start{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.charity{
+    color: #fff;
+}
+.sub2{
+    height: 5rem;
+    margin-top: 4rem;
+    padding: 1rem;
+}
+.Ink{
+    margin-top: 7rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    margin: 0 auto;
+}
+.red{
+    width: 150%;
+    margin: auto;
+    width: fit-content;
+
+}
+.free{
+    color: rgb(150, 218, 245);
+}
+.arrow{
+    color: #fff;
+    float: right;
+}
+.right{
+    float: right;
+}
